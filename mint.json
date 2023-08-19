@@ -1,0 +1,48 @@
+{
+  "name": "Jet Admin",
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#2B50BD",
+    "light": "#6386EF",
+    "dark": "#2B50BD"
+  },
+  "topbarCtaButton": {
+    "name": "Try for Free",
+    "url": "https://app.jetadmin.io/projects/create?_ga=2.134011342.1932488646.1692316785-904080942.1692316785&_gl=1*1u5y6hi*_ga*OTA0MDgwOTQyLjE2OTIzMTY3ODU.*_ga_S9F1LQ3DB7*MTY5MjM4ODUzNS4xLjEuMTY5MjM4OTAzNi4wLjAuMA.."
+  },
+  "topbarLinks": [
+    {
+      "name": "Sign In",
+      "url": "https://app.jetadmin.io/?_ga=2.134011342.1932488646.1692316785-904080942.1692316785&_gl=1*1u5y6hi*_ga*OTA0MDgwOTQyLjE2OTIzMTY3ODU.*_ga_S9F1LQ3DB7*MTY5MjM4ODUzNS4xLjEuMTY5MjM4OTAzNi4wLjAuMA.."
+    }
+  ],
+  "anchors": [
+    {
+        "name": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/jet-admin/jet-bridge"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://www.jetadmin.io/blog/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["welcome"]
+    }
+  ],
+  "footerSocials":
+    {
+        "facebook": "https://www.facebook.com/jetadmin.io/",
+        "twitter": "https://twitter.com/Jet_Admin",
+        "linkedin": "https://www.linkedin.com/company/jet-admin/"
+    }
+}
+
